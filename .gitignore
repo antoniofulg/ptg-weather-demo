@@ -1,2 +1,4 @@
 /bin/
-.compozy/**/reviews-*/
+# Live Compozy working area (plan, task files, hydration marks, run artifacts).
+# Kept local so per-task-group branches contain only agent-produced code.
+.compozy/
