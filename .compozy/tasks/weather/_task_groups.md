@@ -29,7 +29,7 @@ graph:
 
 # weather Task Groups
 
-## [ ] TG-001 — Open-Meteo client
+## [x] TG-001 — Open-Meteo client
 
 - Reference: `weather/TG-001`
 - Outcome: The `weatherapi` package fetches the current temperature for a coordinate
@@ -38,7 +38,7 @@ graph:
   - Open-Meteo request and JSON decoding
 - Dependencies: None
 
-## [ ] TG-002 — IP geolocation
+## [x] TG-002 — IP geolocation
 
 - Reference: `weather/TG-002`
 - Outcome: The `geo` package resolves an approximate location from the caller's IP
@@ -47,7 +47,7 @@ graph:
   - ip-api.com request and JSON decoding
 - Dependencies: None
 
-## [ ] TG-003 — Temperature formatting
+## [x] TG-003 — Temperature formatting
 
 - Reference: `weather/TG-003`
 - Outcome: The `tempfmt` package renders Celsius or Fahrenheit output

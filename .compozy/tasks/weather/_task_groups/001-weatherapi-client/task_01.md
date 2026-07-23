@@ -1,5 +1,5 @@
 ---
-status: pending
+status: completed
 title: Open-Meteo client and tests
 type: backend
 complexity: medium

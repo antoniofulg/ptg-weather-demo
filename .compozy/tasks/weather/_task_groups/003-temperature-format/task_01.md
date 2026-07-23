@@ -1,5 +1,5 @@
 ---
-status: pending
+status: completed
 title: Temperature formatting and tests
 type: backend
 complexity: low

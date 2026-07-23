@@ -1,5 +1,5 @@
 ---
-status: pending
+status: completed
 title: IP geolocation and tests
 type: backend
 complexity: medium
